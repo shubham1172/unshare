@@ -1,4 +1,4 @@
-from distutils.core import setup, Extension
+from setuptools import setup, Extension
 
 unshare_module = Extension('unshare', ['unshare.c'])
 
