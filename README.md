@@ -1,6 +1,7 @@
 # unshare
 
-![PyPI](https://img.shields.io/pypi/v/unshare.svg?color=green&logo=unshare&style=plastic)
+[![PyPI](https://img.shields.io/pypi/v/unshare.svg?color=green&logo=unshare&style=plastic)](https://pypi.org/project/unshare/)
+
 
 ```bash
 pip3 install unshare
