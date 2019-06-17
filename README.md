@@ -1,13 +1,19 @@
 # unshare
 
+![PyPI](https://img.shields.io/pypi/v/unshare.svg?color=green&logo=unshare&style=plastic)
+
+```bash
+pip3 install unshare
+```
+
+<hr>
+
 Python extension for C's unshare call. <br>
 See [man 2 unshare](http://man7.org/linux/man-pages/man2/unshare.2.html).
 
-# Installing
 
-```bash
-$ pip3 install unshare
-```
+**Note**: This is targeted for only Linux based platforms.
+
 
 # Usage
 
