@@ -7,7 +7,7 @@ unshare_module = Extension('unshare', ['unshare.c'])
 
 setup(
     name = 'unshare', 
-    version = 0.21, 
+    version = 0.22, 
     author = 'Shubham Sharma',
     author_email = 'shubhamsharma1172@gmail.com',
     description = 'Python extension for C\'s unshare call (man 2 unshare)',
