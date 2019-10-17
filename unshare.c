@@ -1,4 +1,5 @@
-#include<Python.h>
+#include <Python.h>
+#include <sched.h>
 
 static PyObject *_unshare(PyObject *self, PyObject *args) {
     int clone_flags;
