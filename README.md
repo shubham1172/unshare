@@ -28,10 +28,11 @@ import unshare
 unshare.unshare(unshare.CLONE_NEWUTS)
 ```
 
-The following screenshot is taken from a sample script which uses the unshare library.
+The following screenshot is taken from [a sample script](https://gist.github.com/shubham1172/7c53130e6e0258f998f331955564dc4c#file-container-py) which uses the unshare library.
 
 ![](https://i.imgur.com/B8X0LT8.png)
 
+See [shubham1172/pocket](https://github.com/shubham1172/pocket) for a tiny python container runtime using this library.
 
 # License
 
